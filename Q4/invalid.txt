@@ -1,0 +1,4 @@
+neha99@yahoo
+user_01@abc.com
+test@site.org
+wrongemail.com
